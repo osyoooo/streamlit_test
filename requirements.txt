@@ -1,0 +1,6 @@
+pandas
+numpy
+streamlit as st
+time
+requests
+datetime
