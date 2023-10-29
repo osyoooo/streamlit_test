@@ -1,6 +1,4 @@
 pandas
 numpy
-streamlit as st
-time
+streamlit
 requests
-datetime
